@@ -19,16 +19,6 @@ Atualmente focando em estudar Redes, Sistemas Operacionais e Linguagen de Progra
 
 ---
 
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kdoartte&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdoartte&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## Filosofia
 
 > _"A excelência não é um ato, mas um hábito."  
