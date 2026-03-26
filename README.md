@@ -1,10 +1,13 @@
-# Olá 👋, Meu nome é Carlos Eduardo
+# Olá 👋, Eu sou o Carlos Eduardo
 
-🚀 **Estudante de Segurança da Informação** 
-
-Atualmente focando em estudar Redes, Sistemas Operacionais e Linguagen de Programação
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0A66C2&width=435&lines=Estudante+de+Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o;Focado+em+Redes+e+Sistemas;Entusiasta+de+Cybersecurity" alt="Typing SVG" />
+</p>
 
 ---
+
+### 🚀 Sobre mim
+Estudante focado em **Segurança da Informação**, explorando o mundo de Redes, Sistemas Operacionais e Programação.
 
 ## 🌐 Minhas redes sociais
 
