@@ -1,7 +1,7 @@
 # Olá 👋, Eu sou o Carlos Eduardo
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0A66C2&height=200&section=header&text=Carlos%20Eduardo&fontSize=70&animation=fadeIn" />
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0A66C2&width=435&lines=Estudante+de+Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o;Focado+em+Redes+e+Sistemas;Entusiasta+de+Cybersecurity" alt="Typing SVG" />
 </p>
 
 ---
